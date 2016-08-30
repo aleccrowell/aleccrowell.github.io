@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Coup D'œil"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Alec Crowell"
+description              : "Superficial Observations About Complicated Stuff"
+url                      : aleccrowell.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : aleccrowell/aleccrowell.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200

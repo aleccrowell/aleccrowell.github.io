@@ -5,4 +5,3 @@ permalink: /about/
 ---
 
 
-[contact]: {% link contact.md %}

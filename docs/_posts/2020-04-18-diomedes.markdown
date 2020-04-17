@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Diomedes: Bayesian Driver Ranking"
+date:   2020-04-17 08:00:00 -0400
+categories: Modelling
+---
+
+This post attempts to compare the performance of Formula 1 drivers across the history of the sport.  What makes this an interesting problem is that many factors other than driver skill impact the quantity we actually observe, how long it takes them to get around the course.
